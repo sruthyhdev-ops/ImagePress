@@ -8,7 +8,6 @@
 * **Bulk Processing:** Resize, compress, or convert hundreds of images at once.
 * **Precision Cropping:** Use aspect ratio presets or free-form cropping for the perfect frame.
 * **Smart Resizing:** Change dimensions by pixels or percentage while maintaining aspect ratio.
-* **Format Conversion:** Seamlessly convert between JPEG, PNG, and WebP.
 * **Privacy First:** All image processing happens locally on your device. No images are uploaded to any server.
 
 ## 🚀 Internal Testing
