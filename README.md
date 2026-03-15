@@ -13,8 +13,4 @@
 ## 🚀 Internal Testing
 We are currently in the internal testing phase. If you'd like to help us improve ImagePress, please contact us to be added to the tester list.
 
-## 🛠 Tech Stack
 * **Platform:** Android
-* **Language:** Kotlin/Java (Adjust if you used Flutter/React Native)
-* **Key Libraries:** [List your libraries here, e.g., Glide, Compressor, etc.]
-
